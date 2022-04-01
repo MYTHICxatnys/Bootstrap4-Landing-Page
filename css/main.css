@@ -66,7 +66,7 @@ cursor:pointer;
     margin: 1em 0;
     padding: 2em;
     position: relative;
-    background-color: #59a3e9;
+    /* background-color: #59a3e9; */
 }
 .about h1{
     color:#fff;
@@ -81,8 +81,8 @@ cursor:pointer;
     display: block;
     color: #000;
     position: absolute;
-    left: 115px;
-    font-size: x-large;
+    left: 65px;
+    font-size: small;
     font-weight: 600;
 }
 .about desc{
@@ -91,5 +91,23 @@ cursor:pointer;
 }
 .about .desc p{
     line-height: 2;
-    color: #fff;
+    color: rgb(102, 95, 95);
+    font-weight: 500;
+}
+
+.card {
+    box-shadow: 19px 25px 15px 12px rgba(0,0,0,0.75);
+}
+
+.portfolio .row div img{
+    box-shadow: 19px 25px 15px -3px rgba(0,0,0,0.75);
+}
+.portfolio h1{
+    text-shadow: 10px 2px 8px #547DCE;
+}
+.blog h1{
+    text-shadow: 10px 2px 8px #547DCE;
+}
+#aboutO{
+    text-shadow: 10px 2px 8px #547DCE;
 }
