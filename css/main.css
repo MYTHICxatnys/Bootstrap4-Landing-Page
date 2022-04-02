@@ -55,8 +55,8 @@ cursor:pointer;
     line-height: 1.5; 
 }
 .description button{
-    border: 1px solid #10828c;
-    background: #10828c;
+    border: 1px solid #12dcee;
+    background: #12dcee;
     color: #fff;
 }
 
@@ -87,7 +87,7 @@ cursor:pointer;
 }
 .about desc{
     padding: 2em;
-    border-left: 4px solid #10828c;
+    border-left: 4px solid #12dcee;
 }
 .about .desc p{
     line-height: 2;
